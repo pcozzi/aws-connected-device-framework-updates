@@ -20,7 +20,7 @@
     "@awssolutions/cdf-provisioning-client": "workspace:^2.6.4",
     "ajv": "6.12.3",
     "aws-sdk": "2.1386.0",
-    "body-parser": "1.20.1",
+    "body-parser": "1.20.3",
     "busboy": "1.6.0",
     "cors": "2.8.5",
     "express": "4.19.2",
