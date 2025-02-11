@@ -13,7 +13,7 @@
     "test": "rushx lint && jest --silent --passWithNoTests --maxWorkers=$JEST_MAX_WORKERS"
   },
   "dependencies": {
-    "express": "4.19.2"
+    "express": "4.20.0"
   },
   "devDependencies": {
     "@awssolutions/eslint-config-custom": "workspace:~0.0.0",
